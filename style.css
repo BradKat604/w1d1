@@ -1,0 +1,15 @@
+.rule1 {color: blue;}
+.rule2 {color:;}
+
+aside section p {
+	border: 1px solid cornflowerblue;
+	color: red;
+	/* property: value; */
+	font-family:  "comic sans";
+	text-decoration: underline;
+	color: red;
+	line-height: 2px;
+}
+ul {
+	color:green;
+}
